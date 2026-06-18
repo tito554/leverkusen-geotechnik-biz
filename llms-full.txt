@@ -1,0 +1,51 @@
+# Geotechnik — Leverkusen
+
+> Geotechnical engineering services in Leverkusen, Deutschland.
+
+## Services
+- [Anker](https://leverkusen.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://leverkusen.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://leverkusen.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://leverkusen.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://leverkusen.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://leverkusen.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://leverkusen.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://leverkusen.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://leverkusen.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://leverkusen.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://leverkusen.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://leverkusen.geotechnik.biz/fundamente/)
+- [Grundungen](https://leverkusen.geotechnik.biz/grundungen/)
+- [Hange](https://leverkusen.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://leverkusen.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://leverkusen.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://leverkusen.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://leverkusen.geotechnik.biz/labor/)
+- [Labor In Situ](https://leverkusen.geotechnik.biz/labor-in-situ/)
+- [Masw](https://leverkusen.geotechnik.biz/masw/)
+- [Pfahle](https://leverkusen.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://leverkusen.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://leverkusen.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://leverkusen.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://leverkusen.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://leverkusen.geotechnik.biz/schurfgruben/)
+- [Seismik](https://leverkusen.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://leverkusen.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://leverkusen.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://leverkusen.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://leverkusen.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://leverkusen.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://leverkusen.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://leverkusen.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://leverkusen.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://leverkusen.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://leverkusen.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://leverkusen.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://leverkusen.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://leverkusen.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Leverkusen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
